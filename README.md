@@ -6,6 +6,17 @@ Admin and User apps as an MVP for E-Commerce Fashion Application
 
 
 
+User Application
+
+
+<img width="271" alt="Screenshot 2021-08-05 at 11 15 05 PM" src="https://user-images.githubusercontent.com/14312802/128397465-f316a54a-7aac-4d2b-88c9-0ac98c1f6a1b.png"> <img width="265" alt="Screenshot 2021-08-05 at 11 22 00 PM" src="https://user-images.githubusercontent.com/14312802/128397621-7f4dac99-6fa7-47d9-bb2c-1e8149a7c379.png"> <img width="265" alt="Screenshot 2021-08-05 at 11 23 36 PM" src="https://user-images.githubusercontent.com/14312802/128397869-def181f6-a25b-4031-890e-3a2e0018dc65.png">
+
+
+
+Admin Application
+
+
+<img width="265" alt="Screenshot 2021-08-05 at 11 24 54 PM" src="https://user-images.githubusercontent.com/14312802/128398032-4edb5640-7acd-4411-b61a-c7b5e4479a13.png"> <img width="265" alt="Screenshot 2021-08-05 at 11 25 20 PM" src="https://user-images.githubusercontent.com/14312802/128398092-4b3d12f3-2503-4c64-8bc1-ab2f1f085752.png">
 
 
 
